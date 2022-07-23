@@ -1,0 +1,3 @@
+D:/OneDrive/Master study/Studium/Software Engineering/Algorithms/Sorting/cmake-build-debug/CMakeFiles/Sorting.dir
+D:/OneDrive/Master study/Studium/Software Engineering/Algorithms/Sorting/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/OneDrive/Master study/Studium/Software Engineering/Algorithms/Sorting/cmake-build-debug/CMakeFiles/rebuild_cache.dir
